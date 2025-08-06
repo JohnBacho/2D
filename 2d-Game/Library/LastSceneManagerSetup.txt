@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/IndieMarc/PlatformerDemo/PlatformerDemo.unity
+- path: Assets/IndieMarc/PlatformerDemo/Main.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
