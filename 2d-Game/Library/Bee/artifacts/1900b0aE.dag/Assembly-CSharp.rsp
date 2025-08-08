@@ -337,10 +337,13 @@
 -r:"C:/Program Files/Unity/Hub/Editor/2023.1.5f1/Editor/Data/NetStandard/ref/2.1.0/netstandard.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2023.1.5f1/Editor/Data/PlaybackEngines/AndroidPlayer/Unity.Android.Gradle.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2023.1.5f1/Editor/Data/PlaybackEngines/AndroidPlayer/Unity.Android.Types.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.2D.Sprite.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1900b0aE.dag/Unity.2D.Tilemap.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2023.1.5f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2023.1.5f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
+"Assets/CoinHandler.cs"
 "Assets/Damage.cs"
 "Assets/Hero Knight - Pixel Art/ColorSwap/ColorSwap_HeroKnight.cs"
 "Assets/Hero Knight - Pixel Art/Demo/DestroyEvent_HeroKnight.cs"
@@ -376,6 +379,7 @@
 "Assets/IndieMarc/TopDownDemo/Scripts/PlayerControls.cs"
 "Assets/IndieMarc/TopDownDemo/Scripts/Sprite3D.cs"
 "Assets/IndieMarc/TopDownDemo/Scripts/TheAudio.cs"
+"Assets/ScoreManager.cs"
 -langversion:9.0
 
 /deterministic
